@@ -5,4 +5,4 @@
  * @author ramac_2gifyzh
  *
  */
-package com.tbd.tech.java.dsa;
+package com.tbd.tech.java.algorithm;
